@@ -7,6 +7,9 @@ Each arc on the wheel is a fragrance note, grouped by scent family. A ribbon bet
 
 <a [Screenshot 2026-10-21 at 7.00.09 PM.pdf](https://github.com/user-attachments/files/33795075/Screenshot.2026-10-21.at.7.00.09.PM.pdf)>
 
+<a href="https://github.com">
+  <img src="[https://github.com](https://github.com/user-attachments/files/33795075/Screenshot.2026-10-21.at.7.00.09.PM.pdf)" alt="View PDF" width="100%" height="500px">
+</a>
 
 
 What's in the data:  
