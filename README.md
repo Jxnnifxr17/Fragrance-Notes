@@ -59,3 +59,7 @@ This shows how perfumes are described on Fragrantica, not how they smell. Note l
 Popular perfumes are overrepresented, and raw counts favor very common notes such as musk, bergamot and sandalwood.  
 Family groupings are editorial choices, not a chemical classification.  
 Only the top 80 notes appear, so rarer notes are not on the wheel.
+
+
+Dataset: https://www.kaggle.com/datasets/olgagmiufana1/fragrantica-com-fragrance-dataset
+
