@@ -5,7 +5,7 @@ An interactive chord diagram showing which fragrance notes get used together.
 
 Each arc on the wheel is a fragrance note, grouped by scent family. A ribbon between two arcs means those notes appear in the same perfume, and the thicker the ribbon, the more perfumes share them. Click any note to see its ranked list of partners.
 
-[Screenshot 2026-10-21 at 7.00.09 PM.pdf](https://github.com/user-attachments/files/33795075/Screenshot.2026-10-21.at.7.00.09.PM.pdf)
+<a [Screenshot 2026-10-21 at 7.00.09 PM.pdf](https://github.com/user-attachments/files/33795075/Screenshot.2026-10-21.at.7.00.09.PM.pdf)>
 
 
 
